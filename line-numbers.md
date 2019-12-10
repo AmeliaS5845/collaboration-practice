@@ -3,11 +3,10 @@
 #### 3 Yi wuz here!
 #### 4
 #### 5 I like sleep
-
 #### 6
 #### 7 My favorite color is yellow!
 #### 8
-#### 9
+#### 9 GitHub is really good
 #### 10
 #### 11
 #### 12
