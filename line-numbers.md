@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 I love school
+#### 11 I love Something :)
 #### 12
 #### 13
 #### 14
